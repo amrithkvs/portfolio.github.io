@@ -641,7 +641,6 @@ body,
 }
 @media only screen and (min-width: 960px){
 	.header {
-		border-top-width: 3rem;
 		border-top-style: solid;
 	}
 	.header:not(.header-absolute):not(.header-fixed){
